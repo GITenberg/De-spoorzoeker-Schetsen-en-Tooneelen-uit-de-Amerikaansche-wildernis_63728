@@ -11,6 +11,9 @@ contributor:
     deathdate: 1904
     gutenberg_agent_id: '50566'
     url: http://www.gutenberg.org/2009/agents/50566
+covers:
+- cover_type: archival
+  image_path: 63728-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Aimard, Gustave
@@ -23,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63728#De-spoorzoeker-Schetsen-en-Tooneelen-uit-de-Amerikaansche-wildernis
 gutenberg_issued: '2020-11-12'
 gutenberg_type: Text
 identifiers:
